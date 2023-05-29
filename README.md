@@ -3,9 +3,7 @@
 - 🌱 Estudando PHP
 - 📫 Contate-me no email: heitor585@outlook.com
 
-<div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heitorcs20)](https://github.com/Heitorcs20/github-readme-stats)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heitorcs20&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Heitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
